@@ -2,7 +2,7 @@
 - 👀 I’m interested in anime, art, game development, music, crochet and knitting
 - 🌱 I’m currently learning how to be a better programmer
 - 💞️ I’m looking to collaborate on nothing just yet
-- 📫 How to reach me on Discord - DivaliciousGeek#3944
+- 📫 How to reach me on Discord - DivaliciousGeek
 
 <!---
 DivaliciousGeek/DivaliciousGeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
